@@ -1,0 +1,26 @@
+[
+  {
+    "id": 52,
+    "name": "Business",
+    "category": "Vehicle",
+    "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGhvbmV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 53,
+    "name": "Electronics",
+    "category": "Electronics",
+    "imageUrl": "https://s.alicdn.com/@sc04/kf/H67215accb8c64046a61d2ff86ef41315l/2025-Wholesale-Second-Hand-Android-Mobile-Phone-for-Honor-400-Pro-5G-Smartphone-MagicOS-System-Phone.jpg_300x300.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Tiger",
+    "category": "Animal",
+    "imageUrl": "/uploads/1756223154410-tiger.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "imageUrl": "/uploads/1756223209979-smartphone.png"
+  }
+]
